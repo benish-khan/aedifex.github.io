@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: christopherblack.me
+title: Always Be Becoming
 
 # Your name to show in the footer
-author: Christopher Black
+author: Benish Bashir Khan 
 
 # --- List of links in the navigation bar --- #
 
@@ -43,17 +43,17 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: charles.black.718689
-  github: aedifex
-  instagram: aeterna_veritatis_captatio
-  linkedin: cblack1
+  email: "benishk415@gmail.com"
+  #facebook: facebook.com/bebe.khan
+  github: benish-khan
+  instagram: bee_nipsy
+  linkedin: bbkhan
 #  reddit: yourname
 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  youtube: user/deanat78
+  youtube: user/always_be_becoming
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -74,7 +74,7 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  #facebook: true
   linkedin: true
   vk: false
 
@@ -148,7 +148,7 @@ footer-link-col: "#404040"
 # disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-fb_comment_id: ${FB_COMMENTS}
+#fb_comment_id: ${FB_COMMENTS}
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
